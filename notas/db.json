@@ -1,9 +1,10 @@
-{"notes":[
+{
+  "notes": [
     {
       "id": 1,
       "content": "HTML is easy",
       "date": "'2023-02-14'",
-      "important": true
+      "important": false
     },
     {
       "id": 2,
@@ -15,6 +16,37 @@
       "id": 3,
       "content": "get AND POST are the most importan methods",
       "date": "'2023-02-15'",
-      "important": true
+      "important": false
+    },
+    {
+      "content": "qwertyç",
+      "date": "2023-03-15T22:16:35.517Z",
+      "important": false,
+      "id": 4
+    },
+    {
+      "content": "NOta",
+      "date": "2023-03-15T22:24:56.080Z",
+      "important": false,
+      "id": 5
+    },
+    {
+      "content": "Nueva nota",
+      "date": "2023-03-15T23:17:22.587Z",
+      "important": true,
+      "id": 6
+    },
+    {
+      "content": "otra ",
+      "date": "2023-03-22T18:25:17.290Z",
+      "important": false,
+      "id": 7
+    },
+    {
+      "content": "nueva nota",
+      "date": "2023-03-22T18:25:20.744Z",
+      "important": true,
+      "id": 8
     }
-  ]}
+  ]
+}
