@@ -2,7 +2,6 @@ import React from "react";
 
 const Note = ({ note, updateImportance }) => {
 
-    
     const label = note.important
         ? "make not important" : "make important"
 
