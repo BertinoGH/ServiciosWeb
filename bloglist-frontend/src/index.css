@@ -1,0 +1,105 @@
+body{
+  background-color: #d697a8;
+  color: #591B3D;
+}
+h2{
+  color: #591B3D;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+button {
+  cursor: pointer;
+  border: 1px solid black;
+  border-radius: 2px;
+  padding: 2px 5px;
+}
+
+.error,
+.success {
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+}
+
+.header-title,
+.success {
+  font-size: 40px;
+  font-weight: bold;
+  color: #400D1F;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.header-title,
+.active-user {
+  font-weight: bold;
+}
+
+#new-blog-btn {
+  background-color: #0b400f;
+  margin-bottom: 20px;
+}
+
+#cancel-btn {
+  margin-bottom: 20px;
+}
+
+.blog {
+  padding: 10px 4px;
+  border: 1px solid black;
+  margin-bottom: 5px;
+  border-radius: 4px;
+}
+
+#like-btn {
+  background-color: #0f357c;
+}
+
+#logout-btn,
+#delete-btn {
+  background-color: #7c0f0f;
+}
+.container {
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  text-align: center;
+}
+
+input[type="text"],
+input[type="password"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 200px;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
